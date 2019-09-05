@@ -1,4 +1,4 @@
-FROM deb
+FROM nnurphy/deb
 
 # Avoid warnings by switching to noninteractive
 ENV DEBIAN_FRONTEND=noninteractive
